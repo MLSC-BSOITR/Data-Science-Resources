@@ -1,8 +1,6 @@
 # MLSC BSIOTR Data-Science-Resources
 
 
-# AWESOME DATA SCIENCE
-
 **An open source Data Science repository to learn and apply towards solving real world problems.**
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?
