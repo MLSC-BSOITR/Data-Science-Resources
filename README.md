@@ -948,3 +948,25 @@ Some data mining competition platforms
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
+## Source codes for data science projects. 
+
+1. Build chatbots:
+https://dzone.com/articles/python-chatbot-project-build-your-first-python-pro
+
+2. Credit card fraud detection:
+https://www.kaggle.com/renjithmadhavan/credit-card-fraud-detection-using-python
+
+3. Fake news detection
+https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+
+4.Driver Drowsiness Detection
+https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/
+
+5. Recommender Systems (Movie Recommendation)
+https://data-flair.training/blogs/data-science-r-movie-recommendation/
+
+6. Sentiment Analysis
+https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/
+
+7. Gender Detection & Age Prediction
+https://www.pyimagesearch.com/2020/04/13/opencv-age-detection-with-deep-learning/
